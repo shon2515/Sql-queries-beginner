@@ -1,2 +1,2 @@
 # Sql-Excel-Tableau project(Beginner)
-This is a basic SQL queries to analyze dataset
+This is my first full project 
